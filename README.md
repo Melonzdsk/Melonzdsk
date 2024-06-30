@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Melonzdsk
-- 👀 My skill is copy paste
+- 👋 Hi, I’m @Melonz
+-  nothing special for here🌙
 
 <!---
 Melonzdsk/Melonzdsk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
